@@ -1,0 +1,1 @@
+Crack 896 and Crack-Real datasets are in VOC2012 format, where the JPEG folder is the original image and the Labels folder is the label image, corresponding to the JPEGImages and SegmentatianClass folders in VOC2012 format, respectively.
